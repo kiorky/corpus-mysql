@@ -2,6 +2,10 @@
 Exemple of a generic mysql db deployment with salt/makina-states
 ===========================================================================
 
+
+MOVED TO https://github.com/corpusops/setups.mysql
+
+
 .. contents::
 
 USE/Install With makina-states
